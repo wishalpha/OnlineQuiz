@@ -1,0 +1,9 @@
+******************************
+time taken : 1.0 m 45.9 s
+Qestion1: 10+7=? yichen answer is 17 well done!!
+Qestion2: 3+9=? yichen answer is 12 well done!!
+Qestion3: 1+13=? yichen answer is 14 well done!!
+Qestion4: 1+10=? yichen answer is 11 well done!!
+Qestion5: 14+3=? yichen answer is 17 well done!!
+Qestion6: 4+1=? yichen answer is 5 well done!!
+results:6 out of 6

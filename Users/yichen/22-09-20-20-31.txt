@@ -1,0 +1,9 @@
+******************************
+time taken : 2.0 m 4.3 s
+Qestion1: 20-20=? yichen answer is 0 well done!!
+Qestion2: 10-8=? yichen answer is 2 well done!!
+Qestion3: 17-0=? yichen answer is 17 well done!!
+Qestion4: 15-14=? yichen answer is 1 well done!!
+Qestion5: 7-7=? yichen answer is 0 well done!!
+Qestion6: 15-15=? yichen answer is 0 well done!!
+results:6 out of 6

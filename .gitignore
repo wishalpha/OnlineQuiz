@@ -1,0 +1,5 @@
+.DS*
+__pycache__/
+test.py
+static/*.mp3
+Users/test*/
